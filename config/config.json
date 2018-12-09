@@ -1,0 +1,6 @@
+{
+  "API_KEY"         : "YOUR_API_KEY",
+  "BASE_URL"		: "https://dictionary.yandex.net/api/v1/dicservice.json/lookup?key=",
+  "PARAM_LANG"		: "&lang=en-tr",
+  "PARAM_TEXT"		: "&text="
+}
